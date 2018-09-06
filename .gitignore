@@ -1,0 +1,11 @@
+# Ignore build remanants
+/dist
+
+# Ignore npm
+/node_modules
+
+# Ignore tmp directory
+/tmp/**/*
+
+# Ignore DS_store file
+/**/*.DS_store
